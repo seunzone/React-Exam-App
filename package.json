@@ -12,11 +12,6 @@
   },
   "author": "Seun Daramola",
   "license": "ISC",
-  "devDepencies": {
-    "babel-core": "5.8.*",
-    "babel-loader": "5.3.*",
-    "webpack": "1.12.*"
-  },
   "dependencies": {
     "babel-core": "^5.8.38",
     "react": "^0.14.7",
@@ -27,6 +22,7 @@
   },
   "homepage": "https://github.com/seunzone/React-Exam-App#readme",
   "devDependencies": {
-    "babel-loader": "^5.3.3"
+    "babel-loader": "^5.3.3",
+    "webpack": "^1.12.15"
   }
 }
